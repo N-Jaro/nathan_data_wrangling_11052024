@@ -35,8 +35,13 @@ This repository contains a Jupyter Notebook and supporting data for processing a
 ---
 
 ## Acknowledgments
-- U.S. Geological Survey (USGS) for providing the Alaska IfSAR dataset.
-- Libraries and tools used in this project include NumPy, Matplotlib, rasterio, and TensorFlow.
+
+- **U.S. Geological Survey (USGS)** for providing the Alaska IfSAR dataset used in this project.
+- **Libraries and Tools**:
+  - [NumPy](https://numpy.org/): For numerical operations and array manipulation.
+  - [Matplotlib](https://matplotlib.org/): For data visualization.
+  - [rasterio](https://rasterio.readthedocs.io/): For reading and handling geospatial raster data.
+  - [TensorFlow](https://www.tensorflow.org/): For building and training machine learning models.
 
 ---
 
