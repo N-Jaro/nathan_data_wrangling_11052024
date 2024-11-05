@@ -31,3 +31,15 @@ This repository contains a Jupyter Notebook and supporting data for processing a
 3. Required packages (install with pip):
    ```bash
    pip install numpy matplotlib rasterio tensorflow scikit-learn
+
+---
+
+## Acknowledgments
+- U.S. Geological Survey (USGS) for providing the Alaska IfSAR dataset.
+- Libraries and tools used in this project include NumPy, Matplotlib, rasterio, and TensorFlow.
+
+---
+
+## Contact
+
+For questions or suggestions, please contact **Nattapon Jaroenchai** at [nj7@illinois.edu](mailto:nj7@illinois.edu).
